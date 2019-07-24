@@ -1,0 +1,15 @@
+tragedy
+comedy
+thriller
+fantasy
+mystery
+western
+sports
+adventure
+historical
+superhero
+war
+horror
+chick lit
+magic realism
+science fiction
